@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Analista de Tendências - Claudemir</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f7fa;
+      color: #333;
+    }
+    header {
+      background: #0077b5; /* cor do LinkedIn */
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    section {
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #0077b5;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+    a {
+      color: #0077b5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Analista de Tendências do LinkedIn</h1>
+    <p>Por Claudemir</p>
+  </header>
+
+  <section>
+    <h2>Sobre o Projeto</h2>
+    <div class="card">
+      <p>Este agente foi criado para ajudar profissionais a se posicionarem como referência em <strong>TI, Power BI</strong> e nas tendências da <strong>Inteligência Artificial</strong>.</p>
+      <p>Ele identifica temas em alta, sugere conteúdos estratégicos e ajuda você a construir presença sólida no LinkedIn.</p>
+    </div>
+
+    <h2>O que ele faz</h2>
+    <div class="card">
+      <ul>
+        <li>📊 Cria posts e artigos sobre TI, Power BI e IA.</li>
+        <li>🚀 Identifica tendências e oportunidades de engajamento.</li>
+        <li>💡 Sugere comentários estratégicos em publicações de líderes.</li>
+        <li>🌐 Ajuda a estruturar calendário editorial para LinkedIn.</li>
+      </ul>
+    </div>
+
+    <h2>Conecte-se comigo</h2>
+    <div class="card">
+      <p>Quer acompanhar mais conteúdos e dicas? Acesse meu perfil no LinkedIn:</p>
+      <p><a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">Meu LinkedIn</a></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 Claudemir - Analista de Tendências</p>
+  </footer>
+</body>
+</html>
